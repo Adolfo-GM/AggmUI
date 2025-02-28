@@ -9,7 +9,7 @@ AggmUI is a module for creating sleek and modern user interfaces (UIs) in python
 # Example UI
 
 <img src="resources/example.png" alt="Example UI" height="300">
-
+<img src="resources/example2.png" alt="Example UI" height="300">
 To learn more, check out these resources:
 
 - [How AggmUI works](resources/how-it-works.md)
