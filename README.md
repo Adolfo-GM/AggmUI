@@ -6,6 +6,8 @@
 
 ### Welcome to AGGM
 
+The future of programming.
+
 AGGM is a natural language programming language that uses python as an interpreter. AGGM can have any syntax you want, from pseudo code, to descriptions, to a made-up syntax! AGGM uses the [AggmGPT](https://github.com/Adolfo-GM/AggmGPT-2) local language model to interpret your code with python. AGGM is a great way to learn programming, and is a fun way to code!
 
 To learn more about the AGGM programming language, check out these resources:
