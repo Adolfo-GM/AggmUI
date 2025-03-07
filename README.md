@@ -1,5 +1,5 @@
 <picture>
-  <img src="banner.png" alt="AggmUI logo" height="100">
+  <img src="banner.png" alt="AggmUI logo" >
 </picture>
 
 # AggmUI 
